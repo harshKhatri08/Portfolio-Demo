@@ -65,10 +65,10 @@ h5{
 
  @media (max-width:768px) {
      #img{
-    width: auto;
-    height:400px;
+    width:300px;
+    height:auto;
     border-radius: 50%;
-    margin-left: 2.5rem;
+    margin-left: .3rem;
     margin-bottom: 2rem;
     margin-top:3rem;
  }
